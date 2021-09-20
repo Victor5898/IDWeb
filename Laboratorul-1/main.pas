@@ -1,3 +1,4 @@
 program HelloWorld;
 begin
-writeln(hello world)\nend.\n
+writeln('hello world')
+end.
